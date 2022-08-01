@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'marley_bella_blog.apps.WebsiteConfig',
+    'marley_bella_blog.apps.MarleyBellaBlogConfig',
 ]
 
 MIDDLEWARE = [

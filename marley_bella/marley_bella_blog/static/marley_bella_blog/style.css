@@ -1,0 +1,21 @@
+
+/*********************************  
+main header and shit
+*********************************/
+
+
+h1 {
+    color: aliceblue;
+    background-color: rgb(101, 99, 99)
+}
+
+
+/*********************************  
+Styling the navbar
+*********************************/
+.navbar, .navbar-brand, .nav-link, .navbar-nav, .active {
+    color: rgb(101, 99, 99)
+}
+.btn {
+    background-color: aqua
+}
